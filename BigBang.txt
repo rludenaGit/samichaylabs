@@ -1,0 +1,79 @@
+﻿LA TEORIA DEL BIG BANG
+
+Cuando se hace una excursión matemática al pasado una cosa muy llamativa sucede. Mientras más lejos se va hacia atrás en el tiempo, más compacto era el universo y más rápida era su expansión. De hecho, la relatividad general indica que hace aproximadamente 10 ó 20 mil millones de años el universo estaba infinitamente contraído: la distancia entre dos puntos cualesquiera era cero, la densidad de la materia era infinita y el volumen del universo entero era cero. De acuerdo a este cuadro el universo pasó a estar en un estado muy singular, el momento de su origen, que es llamado el "big bang" ("gran explosión").
+
+No sólo la materia se generó a causa del big bang, sino que también se formó la estructura espacio-tiempo. El espacio fue disminuyendo a cero su volumen en el momento del big bang, y antes del big bang no había un
+
+"antes" .
+
+En el primer segundo después del big bang (aproximadamente) la materia en el universo era muy caliente y densa. Las partículas elementales sumamente enérgicas, estables e inestables, estaban presentes en gran número. Sin embargo, después de ese segundo la expansión y el enfriamiento del universo actuaron tan rápidamente que la mayoría de las partículas inestables se deterioraron. Durante los siguientes 15 minutos tuvieron lugar las reacciones nucleares. La teoría indica que aproximadamente un cuarto de la masa original de protones y neutrones en el universo se convirtió en helio en ese momento. Esta porción de helio está en buen acuerdo con su abundancia observada en el universo presente. Después de 15 minutos la densidad y la temperatura de la materia habían decaído tanto que ninguna reacción nuclear extensa pudo ocurrir hasta mucho después en la evolución del universo cuando las
+
+estrellas fueron formadas.
+
+Todo este tiempo, la materia estaba por todas partes absorbiendo y emitiendo radiación electromagnética, y el naciente universo estaba lleno con una "sopa" homogénea de materia y radiación. Así como el color, o la frecuencia, de la radiación termal emitida por un cuerpo caliente está asociado con su temperatura, también la frecuencia de esta radiación cósmica estaba asociada con la temperatura del universo naciente.
+
+Cuando el universo se expandió y enfrió, la frecuencia de esta radiación primordial bajó hasta la observada actualmente, que debe corresponder a una temperatura de sólo unos grados por encima del cero absoluto. Así, si la teoría del big bang predicha por relatividad general es correcta, el universo debería estar lleno de un mar uniforme de radiación electromagnética de temperatura muy baja.
+
+Precisamente algo semejante a "radiación cósmica de fondo" fue descubierta en 1965 por los radio-astrónomos estadounidenses Arno A.
+
+Penzias y Robert W. Wilson. Fue establecido posteriormente que esta radiación llega a la Tierra de todas las direcciones en igual proporción. La existencia de esta radiación es una confirmación de la teoría del big bang que la predice y documenta de la manera más simple. Además, el alto grado de isotopía de la radiación proporciona una firme evidencia de que el universo es homogéneo e isotrópico, como se supuso. En 1992, después de que el apoyo para la teoría del big bang había disminuido debido al creciente apoyo para las teorías rivales como la teoría del Estado Sostenido, más evidencia de la exactitud de la teoría del big bang fue encontrada. El satélite Explorador del Fondo Cósmico ( COBE) descubrió diminutas diferencias de temperatura en la radiación de microonda proveniente de las espigadas nubes de gas rodeadas ligeramente por vendas menos densas de materia colocadas en una clase de efecto de onda. Se piensa que el arreglo ondeante es una consecuencia del big bang.
+
+¿Cuál es el futuro del Universo?
+
+Según las ecuaciones de Einstein, en consideración a un cierto valor crítico para la densidad de la materia del universo, se presentan tres posibilidades para el futuro del universo:
+
+Si la densidad media de la materia en el universo es igual al valor crítico, entonces el universo se expandirá a una velocidad siempre lenta y eventualmente dejará de expandirse.
+
+Si la densidad media está por debajo del valor crítico, el universo es abierto y se continuará expandiendo para siempre, y cuando todo esté infinitamente separado y frío, vendrá el "big chill" ("gran frío").
+
+Si, por otro lado, la densidad media está por encima del valor crítico, el universo es cerrado, lo cual significa que con el tiempo dejará de expandirse, empezará a contraerse, y finalmente se acabará, aproximadamente dentro de 20 mil millones de años, en un "big crunch"
+
+("gran implosión"), el inverso de su origen, el big bang.
+
+Ahora, uno de los problemas más importantes en la cosmología moderna es la determinación de si el universo es abierto o cerrado. Usando la estimación más generosa de la masa de todas las galaxias, la densidad de masa del universo todavía es aproximadamente 20 veces más pequeña que la densidad crítica. Esto sugiere fuertemente que el universo sea abierto, pero quedan posibilidades de que cantidades significantes de materia existan entre las galaxias.
+
+Una segunda medida que podría determinar si el universo es abierto o cerrado es la de la disminución en la velocidad de la expansión. La velocidad de expansión se expresa en la ecuación: v = Hr
+
+en la cual v es la velocidad, r es la distancia entre dos puntos, y H, llamada la constante de Hubble, es un valor de proporcionalidad que relaciona velocidad y distancia. Aunque H disminuye con el tiempo ya sea el universo abierto o cerrado, disminuye más rápidamente para un universo cerrado.
+
+Para medir H es necesario medir el brillo intrínseco de galaxias distantes.
+
+Desgraciadamente, es bastante probable que el brillo intrínseco de una galaxia varíe significativamente durante su evolución, por lo cual lo que los astrónomos ven ahora puede estar desencaminado. Es por esto que tales métodos de medida fueron interrumpidos, y la desaceleración no puede determinarse por lo menos hasta que los astrónomos desarrollen un mejor entendiendo de la evolución de las galaxia.
+
+Un tercer método que los astrónomos usan para determinar si el universo es abierto o cerrado es medir la edad del universo, que es el tiempo transcurrido desde el big bang. El tiempo transcurrido desde el big bang a los presentes días, asumiendo que la velocidad de expansión actual se ha sostenido a lo largo de este período, se llama tiempo de Hubble.
+
+El tiempo de Hubble puede ser considerado una medida del tiempo requerido por una galaxia para obtener la distancia que la separa de nuestra galaxia actualmente. En otras palabras, es el tiempo máximo desde que las galaxias se separaron, o la edad máxima posible del universo. Para un universo abierto o cerrado cuya velocidad de expansión fue más alta en el pasado, el tiempo real de expansión debe ser más corto que el tiempo de Hubble (el tiempo de Hubble se expresa como 1/H). Las ecuaciones de Einstein demuestran que un universo cerrado debe expandirse más rápidamente que un universo abierto. Específicamente, si la edad real del universo es de menos de dos tercios del tiempo de Hubble, el universo debe ser cerrado; de lo contrario es abierto. Esos dos tercios del tiempo de Hubble son llamados la edad crítica del universo.
+
+Estimando la edad de los grupos de estrellas más viejos conocidos y la edad de los elementos radiactivos duraderos, los científicos han llegado a una edad estimada para el universo de 15 mil millones de años. Puesto que hay un gran margen de error en esta estimación, este número es bastante incierto; la edad correcta muy posiblemente podría ser tan pequeña como 10 mil millones o tan grande como 20 mil millones de años.
+
+Para comparar esto con la edad crítica se necesita saber el valor numérico de la constante de Hubble (H). El problema de medir H fue discutido anteriormente. La mejor estimación actual de la edad crítica del universo es de aproximadamente 13 mil millones años. Aunque este valor es muy cercano al de la edad observada, las incertidumbres en ambas son demasiado grandes para concluir si el universo es abierto o cerrado.
+
+De esta manera, la evidencia actual apunta a un universo abierto. Si embargo, se puede requerir otro medio siglo de datos observacionales antes de que una conclusión firme pueda plantearse para esta pregunta.
+
+1927: Teoría del Big bang
+
+Usando las ecuaciones de Albert Einstein sobre la relatividad general, el astrónomo holandés Willem de Sitter propuso el concepto de un universo en expansión en 1917. Más tarde, el trabajo del astrónomo americano Edwin Hubble apoyó esta teoría.
+
+Usando la teoría de un universo expandido, el astrónomo belga Georges Lemaitre propuso en 1927 la teoría del big bang del origen del universo.
+
+Esta teoría declara que el universo empezó con un evento singular, muy semejante a una gran explosión, en algún momento entre hace 10 y 20 mil millones de años.
+
+La teoría del big bang de Lemaitre, junto con el trabajo sobre ella del astrónomo George Gamow, ha dominado la cosmología moderna por décadas. Esta teoría atrajo algunos discernimientos a finales de 1980 y principios de 1990, particularmente de científicos quienes no podían estar de acuerdo con que la estructura de gran escala de la materia existente en el universo hubiera sido formada en tan sólo 10 ó 20 mil millones de años. Más tarde, nuevos descubrimientos dieron apoyo a esta teoría.
+
+1965: Descubrimiento de la Radiación de Fondo Cósmico En 1965 científicos americanos de los Laboratorios Bell descubrieron un tipo único de radiación electromagnética usando un radio-telescopio. Arno Penzias y Robert W. Wilson determinaron que esta radiación no era el resultado de ninguna fuente radial conocida u otro sonido dentro de sus instrumentos. Formaron la teoría de que esta radiación de fondo cósmico fue generada en el big bang, el evento que estableció la expansión del universo, de acuerdo a la teoría.
+
+Según Penzias y Wilson, la radiación emanada del big bang se habría liberado y finalmente cambió en frecuencias radiales más bajas. Penzias y Wilson ganaron el Premio Nobel en física en 1978 por su descubrimiento.
+
+Más tarde, el estudio de la radiación de fondo cósmico llevó a grandes descubrimientos a fines del siglo XX. El satélite Explorador del Fondo
+
+Cósmico ( COBE) fue lanzado en 1989, y en 1992 detectó ligeras fluctuaciones de la temperatura en la radiación de fondo. Se pensó que estas fluctuaciones eran evidencia de ondas gravitatorias que podían haber promovido la agrupación de la materia en las grandes estructuras que observamos hoy en galaxias y agrupaciones de galaxias.
+
+1992: Se encuentra apoyo para la Teoría del Big bang El 23 de abril de 1992, los astrónomos del Laboratorio Lawrence Berkeley y la Universidad de California en Berkeley anunciaron un descubrimiento sorprendente que apoya la teoría del big bang del origen del universo.
+
+Analizando observaciones hechas por el satélite COBE, el Dr. George Smoot y sus colegas de Berkeley hallaron evidencia de fluctuaciones de la temperatura en la radiación de microondas del fondo cósmico, la energía restante del big bang. Interpretaron estas fluctuaciones como evidencia de ondas gravitatorias que promovieron la agrupación de la materia en el universo primordial.
+
+El descubrimiento de Smoot y sus colegas abrió una ventana al universo cuando éste estaba sólo a aproximadamente 300.000 años del big bang.
+
+Sólo una ligera variación de la temperatura en el orden de unas cien milésimas de un grado bastaba para sugerir que las " arrugas en el espacio"
+
+descubiertas por el satélite COBE eran evidencia de suficientes fluctuaciones de gravedad para promover la agrupación de la materia en grandes estructuras tales como estrellas, galaxias y agrupaciones galácticas. El descubrimiento de Smoot fue descrito como el " eslabón perdido" entre el origen del universo y su actual estado.
